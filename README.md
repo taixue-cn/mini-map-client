@@ -1,3 +1,5 @@
+> Active development has moved to [taixue-cn/mini-map](https://github.com/taixue-cn/mini-map). The server and client are now Kotlin Gradle modules in one repository. This repository retains the original Java alpha history and releases.
+
 # MiniMap Client
 
 Optional Fabric companion to [MiniMap Server](https://github.com/taixue-cn/mini-map-server). Downloads pre-rendered maps through Minecraft plugin messages and imports their color, height and light into Xaero World Map's native surface tiles.
